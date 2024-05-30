@@ -1,0 +1,39 @@
+payload:
+  # Mulai baris ini kebawah bisa di edit/hapus
+  #MLBB
+  - DOMAIN-SUFFIX,mobilelegends.com
+  - DOMAIN-SUFFIX,mobilelegends.ca
+  - DOMAIN-SUFFIX,mobilelegends.cn
+  - DOMAIN-SUFFIX,mobilelegends.co.kr
+  - DOMAIN-SUFFIX,mobilelegends.info
+  - DOMAIN-SUFFIX,mobilelegends.kr
+  - DOMAIN-SUFFIX,mobilelegends.net
+  - DOMAIN-SUFFIX,mobilelegends.org
+  - DOMAIN-SUFFIX,mobilelegends.com.cn
+  - DOMAIN-SUFFIX,youngjoygame.com
+  - DOMAIN-SUFFIX,yuanzhanapp.com
+  - DOMAIN-SUFFIX,aihelp.net
+  - DOMAIN,tnc16-alisg.isnssdk.com
+  - DOMAIN,gplog-sg.byteoversea.com
+  - DOMAIN,xlog.byteoversea.com
+  - DOMAIN-KEYWORD,mobilelegends.com,Game
+  - DOMAIN-KEYWORD,*.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,m.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,sg-play.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,game.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,www.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,dev-creatorcamp.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,dev-api.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,lore.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,s.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,esports.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,play.mobilelegends.com,Game
+  - DOMAIN-KEYWORD,img-cdn.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,applink.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,creatorcamp.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,moba.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,share.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,activity.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,event.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,mpl.mobilelegends.com,Game
+  - DOMAIN-SUFFIX,static.mobilelegends.com,Game
